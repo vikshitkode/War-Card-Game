@@ -1,8 +1,8 @@
 # 🏆 WAR – The Card Game  
 
-**`A Simple & Fun iOS Card Game Built in Swift`**  
+**`A Simple & Fun iOS Card Game Built in Swift`**   
 
-![War Card Game Screenshot](Screenshot%202025-02-16%20at%208.29.00%E2%80%AFPM.png)  
+![War Card Game](war_card_game.png)   
 
 **War** is a classic card game where two players (you vs CPU) draw random cards, and the higher card wins! This game is built using **Swift and SwiftUI**, designed for a smooth and visually appealing experience.  
 
