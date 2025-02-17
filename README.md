@@ -2,7 +2,7 @@
 
 **`A Simple & Fun iOS Card Game Built in Swift`**   
 
-![War Card Game](war_card_game.png){width=300}{height=300}
+<img src="war_card_game.png" alt="War Card Game" width="300"/>
 
 **War** is a classic card game where two players (you vs CPU) draw random cards, and the higher card wins! This game is built using **Swift and SwiftUI**, designed for a smooth and visually appealing experience.  
 
