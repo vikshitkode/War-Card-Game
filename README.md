@@ -22,15 +22,7 @@
 - **Language:** Swift  
 - **Framework:** SwiftUI  
 - **UI Elements:** Buttons, Images, State Management  
-- **Logic:** Random card generation, conditional rendering, scorekeeping  
-
----
-
-## 📸 **Screenshots**  
-
-| Game Screen | Game in Action |  
-|-------------|---------------|  
-| ![War Card Game](Screenshot%202025-02-16%20at%208.29.00%E2%80%AFPM.png) | *(Add another gameplay screenshot here if available!)* |  
+- **Logic:** Random card generation, conditional rendering, scorekeeping   
 
 ---
 
